@@ -17,14 +17,9 @@ The IBTROS application is divided into two main components: IBTROS_Telegram and 
 
 ### Clone repository
 
-<<<<<<< HEAD
 ```bash 
 git clone https://github.com/Jerryblessed/gemini_IBTROS.git
 ```
-=======
-2. Navigate to the IBTROS_Telegram Directory:
-   cd ./IBTROS_telegram
->>>>>>> d9117c30dfd57ec3f5b4d3c119dd42521ed35cf1
 
 ### Navigate to the IBTROS_Telegram Directory:
 ```bash 
