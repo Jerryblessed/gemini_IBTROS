@@ -1,0 +1,3 @@
+1) Download pycharm --
+2) Install the Python libraries
+3) Login to telegram software and run core
