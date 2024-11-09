@@ -5,7 +5,7 @@ The IBTROS application is divided into two main components: IBTROS_Telegram and 
 
 ### Natural language with Fraud (Anomaly) detection using Splunk at pilot side 
 ![High Level Architecture](shuttle_1.png)
-| ![Image 1](shuttle_3.png) | ![Image 2](shuttle_3.png) |
+| ![Image 1](shuttle_3.png) | ![Image 2](shuttle_4.png) |
 |-------------------------|------------------------|
 | Converse naturally with prompt        | Get response from db  |
 
